@@ -1,0 +1,17 @@
+E:\Advanced Programming\StudentManagement\StudentManagement.DAL\bin\Debug\net8.0\StudentManagement.DAL.deps.json
+E:\Advanced Programming\StudentManagement\StudentManagement.DAL\bin\Debug\net8.0\StudentManagement.DAL.runtimeconfig.json
+E:\Advanced Programming\StudentManagement\StudentManagement.DAL\bin\Debug\net8.0\StudentManagement.DAL.dll
+E:\Advanced Programming\StudentManagement\StudentManagement.DAL\bin\Debug\net8.0\StudentManagement.DAL.pdb
+E:\Advanced Programming\StudentManagement\StudentManagement.DAL\bin\Debug\net8.0\StudentManagement.Entities.dll
+E:\Advanced Programming\StudentManagement\StudentManagement.DAL\bin\Debug\net8.0\StudentManagement.Entities.pdb
+E:\Advanced Programming\StudentManagement\StudentManagement.DAL\obj\Debug\net8.0\StudentManagement.DAL.csproj.AssemblyReference.cache
+E:\Advanced Programming\StudentManagement\StudentManagement.DAL\obj\Debug\net8.0\StudentManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Advanced Programming\StudentManagement\StudentManagement.DAL\obj\Debug\net8.0\StudentManagement.DAL.AssemblyInfoInputs.cache
+E:\Advanced Programming\StudentManagement\StudentManagement.DAL\obj\Debug\net8.0\StudentManagement.DAL.AssemblyInfo.cs
+E:\Advanced Programming\StudentManagement\StudentManagement.DAL\obj\Debug\net8.0\StudentManagement.DAL.csproj.CoreCompileInputs.cache
+E:\Advanced Programming\StudentManagement\StudentManagement.DAL\obj\Debug\net8.0\StudentM.05F01CCF.Up2Date
+E:\Advanced Programming\StudentManagement\StudentManagement.DAL\obj\Debug\net8.0\StudentManagement.DAL.dll
+E:\Advanced Programming\StudentManagement\StudentManagement.DAL\obj\Debug\net8.0\refint\StudentManagement.DAL.dll
+E:\Advanced Programming\StudentManagement\StudentManagement.DAL\obj\Debug\net8.0\StudentManagement.DAL.pdb
+E:\Advanced Programming\StudentManagement\StudentManagement.DAL\obj\Debug\net8.0\StudentManagement.DAL.genruntimeconfig.cache
+E:\Advanced Programming\StudentManagement\StudentManagement.DAL\obj\Debug\net8.0\ref\StudentManagement.DAL.dll

@@ -1,0 +1,17 @@
+E:\Advanced Programming\StudentManagement\StudentManagement.BLL\bin\Debug\net8.0\StudentManagement.BLL.deps.json
+E:\Advanced Programming\StudentManagement\StudentManagement.BLL\bin\Debug\net8.0\StudentManagement.BLL.dll
+E:\Advanced Programming\StudentManagement\StudentManagement.BLL\bin\Debug\net8.0\StudentManagement.BLL.pdb
+E:\Advanced Programming\StudentManagement\StudentManagement.BLL\bin\Debug\net8.0\StudentManagement.DAL.dll
+E:\Advanced Programming\StudentManagement\StudentManagement.BLL\bin\Debug\net8.0\StudentManagement.Entities.dll
+E:\Advanced Programming\StudentManagement\StudentManagement.BLL\bin\Debug\net8.0\StudentManagement.DAL.pdb
+E:\Advanced Programming\StudentManagement\StudentManagement.BLL\bin\Debug\net8.0\StudentManagement.Entities.pdb
+E:\Advanced Programming\StudentManagement\StudentManagement.BLL\obj\Debug\net8.0\StudentManagement.BLL.csproj.AssemblyReference.cache
+E:\Advanced Programming\StudentManagement\StudentManagement.BLL\obj\Debug\net8.0\StudentManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Advanced Programming\StudentManagement\StudentManagement.BLL\obj\Debug\net8.0\StudentManagement.BLL.AssemblyInfoInputs.cache
+E:\Advanced Programming\StudentManagement\StudentManagement.BLL\obj\Debug\net8.0\StudentManagement.BLL.AssemblyInfo.cs
+E:\Advanced Programming\StudentManagement\StudentManagement.BLL\obj\Debug\net8.0\StudentManagement.BLL.csproj.CoreCompileInputs.cache
+E:\Advanced Programming\StudentManagement\StudentManagement.BLL\obj\Debug\net8.0\StudentM.6D2CE085.Up2Date
+E:\Advanced Programming\StudentManagement\StudentManagement.BLL\obj\Debug\net8.0\StudentManagement.BLL.dll
+E:\Advanced Programming\StudentManagement\StudentManagement.BLL\obj\Debug\net8.0\refint\StudentManagement.BLL.dll
+E:\Advanced Programming\StudentManagement\StudentManagement.BLL\obj\Debug\net8.0\StudentManagement.BLL.pdb
+E:\Advanced Programming\StudentManagement\StudentManagement.BLL\obj\Debug\net8.0\ref\StudentManagement.BLL.dll
